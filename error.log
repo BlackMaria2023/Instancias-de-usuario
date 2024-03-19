@@ -1,0 +1,3 @@
+Error al crear instancia de usuario: Expecting ',' delimiter: line 1 column 99 (char 98)
+Error al crear instancia de usuario: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+Error al crear instancia de usuario: Expecting value: line 1 column 88 (char 87)
